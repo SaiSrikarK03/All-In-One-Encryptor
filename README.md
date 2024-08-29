@@ -20,7 +20,7 @@ This Java-based desktop application provides a simple interface for encrypting a
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/encryption-app.git
+    git clone https://github.com/SaiSrikarK03/encryption-app.git
     ```
 2. **Compile the Java program**:
     Navigate to the directory where the `EncryptionApp.java` file is located and compile it using the following command:
